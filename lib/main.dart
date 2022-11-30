@@ -2,6 +2,7 @@ import 'package:compani/components/container_ani.dart';
 import 'package:compani/components/container_other.dart';
 import 'package:compani/components/container_position.dart';
 import 'package:compani/components/reto1.dart';
+import 'package:compani/components/reto2.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -28,7 +29,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: Scaffold(body: Reto1()),
+      home: Scaffold(body: Reto2()),
     );
   }
 }
