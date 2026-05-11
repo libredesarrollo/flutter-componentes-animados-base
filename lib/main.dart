@@ -1,6 +1,10 @@
+import 'package:compani/components/animation_controller_example.dart';
 import 'package:compani/components/container_ani.dart';
+import 'package:compani/components/container_crossfade.dart';
 import 'package:compani/components/container_other.dart';
 import 'package:compani/components/container_position.dart';
+import 'package:compani/components/container_switcher.dart';
+import 'package:compani/components/container_textstyle.dart';
 import 'package:compani/components/reto1.dart';
 import 'package:compani/components/reto2.dart';
 import 'package:flutter/material.dart';
